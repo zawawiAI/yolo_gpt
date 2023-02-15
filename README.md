@@ -16,12 +16,12 @@ ultralytics
 Installation
 To install the required packages, run the following command in your terminal:
 
-Copy code
-pip install tkinter pillow openai yolov5-0.9
+
+pip install tkinter pillow openai ultralytics
+
 Usage
 To use the project, simply run the following command in your terminal:
 
-Copy code
 python yolo_gpt.py
 After running the script, a GUI will be displayed with a drag and drop window where you can input an image, and a results window where the generated recipes will be displayed.
 
