@@ -5,6 +5,12 @@ A playground to test integration between GPT3 and Object Recognition using Pytho
 Introduction
 The OpenAI YOLOv8 is a project that demonstrates the integration between GPT-3 and Object Recognition using Python. The project provides a GUI where users can input an image, detect objects in the image using YOLOv8, and generate 5 simple recipes based on the detected objects using GPT-3.
 
+
+https://github.com/zawawiAI/yolo_gpt/assets/50743060/64ff146c-71cb-47d4-9fc2-163797e9d023
+
+
+
+
 Prerequisites
 Before running the project, make sure you have the following installed:
 
